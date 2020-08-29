@@ -1,18 +1,16 @@
 {
   "logs": [
     {
-      "message": "Changed network card in server 007",
-      "attention": false,
-      "tech": "Sam Smith",
-      "date": "2020-08-29T11:05:11.360Z",
-      "id": 1
+      "id": 1,
+      "message": "Changed network card in server 008",
+      "tech": "Julien John",
+      "date": "2020-08-29T12:22:58.916Z"
     },
     {
-      "message": "Hard drive failed in workstation 002",
-      "attention": true,
-      "tech": "John Doe",
-      "date": "2020-08-29T11:05:30.392Z",
-      "id": 2
+      "id": 2,
+      "message": "Fixed hard drive in workstation 002",
+      "tech": "Sam Smith",
+      "date": "2020-08-29T12:23:53.526Z"
     },
     {
       "message": "1122 wireless down",
