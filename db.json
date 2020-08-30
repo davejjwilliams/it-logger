@@ -1,23 +1,11 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Changed network card in server 008",
-      "tech": "Julien John",
-      "date": "2020-08-29T12:22:58.916Z"
-    },
-    {
-      "id": 2,
-      "message": "Fixed hard drive in workstation 002",
-      "tech": "Sam Smith",
-      "date": "2020-08-29T12:23:53.526Z"
-    },
-    {
-      "message": "1122 wireless down",
+      "message": "Test Log",
       "attention": true,
-      "tech": "Julien John",
-      "date": "2020-08-29T11:05:45.454Z",
-      "id": 3
+      "tech": "John Doe",
+      "date": "2020-08-30T11:35:55.305Z",
+      "id": 1
     }
   ],
   "techs": [
